@@ -7,9 +7,9 @@
 ### 🔗 Professional Links
 
 <p align="left">
-  <a href="https://preethamam.github.io" target="_blank"> <img src="assets/Website_icon.svg" width="26" alt="Personal Website"/></a>  
+  <a href="https://preethamam.github.io" target="_blank"> <img src="assets/website.png" width="26" alt="Personal Website"/></a>  
   <a href="https://www.linkedin.com/in/pmanjunatha/" target="_blank"><img src="assets/linkedin-original.svg" width="26" alt="LinkedIn"/></a>  
-  <a href="https://scholar.google.com/citations?user=XJJg770AAAAJ&hl=en" target="_blank"><img src="assets/Google_Scholar_logo.svg" width="26" alt="Google Scholar"/></a>  
+  <a href="https://scholar.google.com/citations?user=XJJg770AAAAJ" target="_blank"><img src="assets/Google_Scholar_logo.svg" width="26" alt="Google Scholar"/></a>  
   <a href="https://www.mathworks.com/matlabcentral/profile/authors/2462414" target="_blank"><img src="assets/Matlab_Logo.png" width="26" alt="MathWorks"/></a>  
 </p>
 
