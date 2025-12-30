@@ -26,7 +26,7 @@ I hold a **Ph.D. in Civil Engineering** with a strong emphasis on **applied comp
 - **Senior Research Scientist**, *Augrade Inc., USA* — Generative AI & Computer Vision
 - **Research Scientist**, *Siemens AI, USA* — Industrial Computer Vision & Digital Twins
 - **Senior Research Associate**, *University of Southern California* (Dept. of Civil Engineering)
-- **Journal Reviewer** — *SAGE Structural Health Monitoring*, *Elsevier Automation in Construction*, *Springer Nonlinear Dynamics*
+- **Journal Reviewer** — *SAGE Structural Health Monitoring*, *Elsevier Automation in Construction*, *Elsevier Computer Physics Communications*, *Springer Nonlinear Dynamics, and Springer The Journal of Supercomputing*
 
 ---
 
